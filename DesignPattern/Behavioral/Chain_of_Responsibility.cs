@@ -27,10 +27,6 @@ namespace DesignPattern.Behavioral
             p = new Purchase(2036, 122100.00, "Project Y");
             larry.ProcessRequest(p);
 
-            // Wait for user
-
-            Console.ReadKey();
-
         }
 
         /// <summary>

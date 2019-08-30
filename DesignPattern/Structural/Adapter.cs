@@ -27,10 +27,6 @@ namespace DesignPattern.Structural
 
             Compound ethanol = new RichCompound("Ethanol");
             ethanol.Display();
-
-            // Wait for user
-
-            Console.ReadKey();
         }
     }
 
