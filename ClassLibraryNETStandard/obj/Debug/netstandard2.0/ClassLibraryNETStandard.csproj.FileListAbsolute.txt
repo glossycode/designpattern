@@ -1,9 +1,0 @@
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.csprojAssemblyReference.cache
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.csproj.CoreCompileInputs.cache
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.AssemblyInfoInputs.cache
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.AssemblyInfo.cs
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\bin\Debug\netstandard2.0\ClassLibraryNETStandard.deps.json
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\bin\Debug\netstandard2.0\ClassLibraryNETStandard.dll
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\bin\Debug\netstandard2.0\ClassLibraryNETStandard.pdb
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.dll
-C:\Users\ochampion\source\repos\MyExperimentas\ClassLibraryNETStandard\obj\Debug\netstandard2.0\ClassLibraryNETStandard.pdb
