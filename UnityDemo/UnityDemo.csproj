@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include=".vshistory\Animal.cs\" />
+    <Folder Include=".vshistory\Clases.cs\" />
+    <Folder Include=".vshistory\IAnimal.cs\" />
+    <Folder Include=".vshistory\Program.cs\" />
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.12.0" />
+    <PackageReference Include="Unity" Version="5.11.1" />
+  </ItemGroup>
+
+</Project>

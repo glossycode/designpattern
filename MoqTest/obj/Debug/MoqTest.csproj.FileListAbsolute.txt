@@ -1,0 +1,16 @@
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\MoqTest.exe.config
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\MoqTest.exe
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\MoqTest.pdb
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\Castle.Core.dll
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\Moq.dll
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\Castle.Core.xml
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\Moq.xml
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\obj\Debug\MoqTest.csprojAssemblyReference.cache
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\obj\Debug\MoqTest.csproj.CoreCompileInputs.cache
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\obj\Debug\MoqTest.csproj.CopyComplete
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\obj\Debug\MoqTest.exe
+C:\Users\ochampion\source\repos\MyExperiments\MoqTest\obj\Debug\MoqTest.pdb

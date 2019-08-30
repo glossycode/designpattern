@@ -1,0 +1,12 @@
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\ochampion\source\repos\MyExperimentas\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\ochampion\source\repos\MyExperiments\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
